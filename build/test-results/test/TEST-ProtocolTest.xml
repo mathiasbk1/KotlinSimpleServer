@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="ProtocolTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2019-11-05T09:52:28" hostname="Mathias-Laptop" time="0.069">
+  <properties/>
+  <testcase name="testSayHelloToKurt" classname="ProtocolTest" time="0.069"/>
+  <system-out><![CDATA[test body:  <p>Hello Kurt!</p>]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
